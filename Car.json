@@ -1,0 +1,14 @@
+[
+    {
+        "brand": "Koenigsegg",
+        "model" : "Regera R",
+        "color" : "Red",
+        "country" : "Sweden"
+    },
+    {
+        "brand": "Koenigsegg",
+        "model" : "Jesko",
+        "color" : "Grey & Green",
+        "country" : "Sweden"
+    }
+]
